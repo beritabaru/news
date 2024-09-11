@@ -1,0 +1,5 @@
+# no bot may crawl 
+User-agent: *
+Disallow: /
+
+Sitemap: https://beritabaru.github.io/news/sitemap.xml
