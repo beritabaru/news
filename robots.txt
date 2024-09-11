@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+allow: /
 
 Sitemap: https://github.com/beritabaru/news/sitemap.xml
